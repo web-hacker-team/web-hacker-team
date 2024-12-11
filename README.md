@@ -16,7 +16,7 @@
 - :computer: 我们的成员是网络安全专家，他们分别是searat and izut。
 - :dart: 目前我们专注于开发开源的安全工具和进行网络安全研究。
 - :video_game: 我们热爱《我的世界》，这帮助我们在紧张的工作之余放松身心。
-- :bubble_tea: 每周都要喝杯奶茶才能工作。
+-🧋:bubble_tea: 每周都要喝杯奶茶才能工作。
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about us...  
 
