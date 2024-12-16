@@ -13,15 +13,15 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="360px"/>
 <br/>
 
-- :house: 我们团队目前位于中国 🇨🇳。
-- :email: 联系我们或者申请加入团队请发邮件至web_hacker@163.com。
-- 🤝 我们正在寻找更多的成员。
-- 💬 问我们任何与技术相关的问题，我们都很乐意提供帮助；
-- 👨🏻‍💻 我们大多数的项目都在[Github](https://github.com/web-hacker-team?tab=repositories)
-- :computer: 我们的成员是网络安全专家，他们分别是searat 和 izut。
-- :dart: 目前我们专注于开发开源的安全工具和进行网络安全研究。
-- 🌱 我们正在书写关于Waf绕过的论文。
-- :video_game: 我们热爱PVP游戏，这帮助我们在紧张的工作之余放松身心。
+- :house: Our team is currently located in China 🇨🇳.
+- :email: Contact us or apply to join our team by emailing web_hacker@163.com.
+- 🤝 We are looking for more members.
+- 💬 Ask us any technical questions, and we'd be happy to help;
+- 👨🏻‍💻 Most of our projects are on Github
+- :computer: Our members are cybersecurity experts, including searat and izut.
+- :dart: We are currently focused on developing open-source security tools and conducting cybersecurity research.
+- 🌱 We are writing a paper on Waf bypassing.
+- :video_game: We love PVP games, which help us relax and unwind from the pressures of work.
 
 ### 🧐 A little more about us...  
 
