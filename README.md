@@ -20,7 +20,6 @@
 - 👨🏻‍💻 Most of our projects are on Github
 - :computer: Our members are cybersecurity experts, including searat and izut.
 - :dart: We are currently focused on developing open-source security tools and conducting cybersecurity research.
-- 🌱 We are writing a paper on Waf bypassing.
 - :video_game: We love PVP games, which help us relax and unwind from the pressures of work.
 
 ### 🧐 A little more about us...  
