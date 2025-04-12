@@ -8,9 +8,10 @@
   </a>
 </p>
 
-"Web Hacket Team" was established in January 2024, comprising two dedicated members: searat and izut. Our team is committed to the field of web security and binary security, conducting in-depth research and analysis to uncover vulnerabilities and enhance the overall security landscape of web applications and binary systems.
+"Web Hacket Team" was established in January 2024, comprising two dedicated members: Searat and izut. Our team is committed to the field of web security and binary security, conducting in-depth research and analysis to uncover vulnerabilities and enhance the overall security landscape of web applications and binary systems.
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="360px"/>
+<img align="right"
+ alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="360px"/>
 <br/>
 
 - :house: Our team is currently located in China 🇨🇳.
@@ -18,7 +19,7 @@
 - 🤝 We are looking for more members.
 - 💬 Ask us any technical questions, and we'd be happy to help;
 - 👨🏻‍💻 Most of our projects are on Github
-- :computer: Our members are cybersecurity experts, including searat and izut.
+- :computer: Our members are cybersecurity experts, including Searat and izut.
 - :dart: We are currently focused on developing open-source security tools and conducting cybersecurity research.
 - :video_game: We love PVP games, which help us relax and unwind from the pressures of work.
 
@@ -27,7 +28,7 @@
 ```ruby
 CONST WEB_HACKER_TEAM = {
   pronouns: "He" | "him",
-  team_members: ["searat", "izut"],
+  team_members: ["Searat", "izut"],
   backend: ["Python", "PHP", "HTML"],
   database: ["mySQL", "Redis"],
   challenge: "We will continue to contribute to the field of cyber security."
@@ -40,4 +41,7 @@ CONST WEB_HACKER_TEAM = {
 [[CVE-2024-8029](https://www.cve.org/CVERecord?id=CVE-2024-8029)] Stored XSS in imartinez/privategpt
 <br/>
 [[CVE-2024-7962](https://www.cve.org/CVERecord?id=CVE-2024-7962)] Arbitrary File Read in gaizhenbiao/chuanhuchatgpt
-
+<br/>
+[[CVE-2024-50405](https://www.cve.org/CVERecord?id=CVE-2024-50405)] CRLF Injection in QTS and QuTS hero
+<br/>
+[[CVE-2024-53693](https://www.cve.org/CVERecord?id=CVE-2024-53693)] CRLF Injection in QTS and QuTS hero
