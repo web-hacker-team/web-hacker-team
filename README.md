@@ -37,7 +37,7 @@ CONST WEB_HACKER_TEAM = {
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=web-hacker-team&show_icons=true" alt="web-hacker-team" align="right" />
 
-### 🛠️ Our CVE and Security Advisories
+### 🛠️ Our Discovered Vulnerabilities
 [[CVE-2024-8029](https://www.cve.org/CVERecord?id=CVE-2024-8029)] Stored XSS in imartinez/privategpt
 <br/>
 [[CVE-2024-7962](https://www.cve.org/CVERecord?id=CVE-2024-7962)] Arbitrary File Read in gaizhenbiao/chuanhuchatgpt
@@ -45,3 +45,5 @@ CONST WEB_HACKER_TEAM = {
 [[CVE-2024-50405](https://www.cve.org/CVERecord?id=CVE-2024-50405)] CRLF Injection in QTS and QuTS hero
 <br/>
 [[CVE-2024-53693](https://www.cve.org/CVERecord?id=CVE-2024-53693)] CRLF Injection in QTS and QuTS hero
+<br/>
+[[CVE-2025-3535](https://www.cve.org/CVERecord?id=CVE-2025-3535)] Denial of Service in shuanx BurpAPIFinder v2.0.2
