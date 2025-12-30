@@ -9,7 +9,7 @@
 <div style="display: flex; justify-content: center; gap: 15px; margin: 20px 0; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/📍_China-FFFFFF?style=for-the-badge&logo=location-dot&logoColor=red&labelColor=black"  alt="Location: China">
   <img src="https://img.shields.io/badge/🛡️_ 网络安全专家-FFFFFF?style=for-the-badge&logo=fortinet&logoColor=blue&labelColor=black" alt="Cybersecurity Experts">
-  <img src="https://img.shields.io/badge/🤝_ 正在招聘-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=black" alt="Hiring Now">
+  <img src="https://img.shields.io/badge/🤝_ 正在招聘队员-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=black" alt="Hiring Now">
 </div>
  
 </div>
@@ -56,10 +56,10 @@ Web Hacker Team 成立于 **2024 年 1 月**，由两名专注于网络安全研
  
 | CVE ID | 漏洞类型 | 受影响项目 | 状态 |
 |--------|---------|-----------|------|
-| ![CVE](https://img.shields.io/badge/CVE--2024--8029-critical?style=flat-square)  | 存储型XSS | imartinez/privategpt | <span style="color:green">已修复</span> |
+| ![CVE](https://img.shields.io/badge/CVE--2024--8029-medium?style=flat-square)  | 存储型XSS | imartinez/privategpt | <span style="color:green">已修复</span> |
 | ![CVE](https://img.shields.io/badge/CVE--2024--7962-high?style=flat-square)  | 任意文件读取 | gaizhenbiao/chuanhuchatgpt | <span style="color:green">已修复</span> |
-| ![CVE](https://img.shields.io/badge/CVE--2024--50405-medium?style=flat-square)  | CRLF注入 | QTS/QuTS hero | <span style="color:orange">处理中</span> |
-| ![CVE](https://img.shields.io/badge/CVE--2024--53693-medium?style=flat-square)  | CRLF注入 | QTS/QuTS hero | <span style="color:orange">处理中</span> |
+| ![CVE](https://img.shields.io/badge/CVE--2024--50405-medium?style=flat-square)  | CRLF注入 | QTS/QuTS hero | <span style="color:orange">已修复</span> |
+| ![CVE](https://img.shields.io/badge/CVE--2024--53693-medium?style=flat-square)  | CRLF注入 | QTS/QuTS hero | <span style="color:orange">已修复</span> |
 | ![CVE](https://img.shields.io/badge/CVE--2025--3535-high?style=flat-square)  | 拒绝服务 | BurpAPIFinder v2.0.2 | <span style="color:green">已修复</span> |
  
 ## 📬 联系我们 
@@ -67,10 +67,6 @@ Web Hacker Team 成立于 **2024 年 1 月**，由两名专注于网络安全研
 <div align="center">
  
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg"  width="20" /> **邮箱:** web_hacker@163.com
- 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/comments.svg"  width="20" /> **技术支持:** 提供中 
- 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/gamepad.svg"  width="20" /> **爱好:** PVP游戏爱好者 
  
 </div>
  
