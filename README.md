@@ -1,126 +1,161 @@
-<div align="left">
-  <h1 id="macropower-title" style="font-size: 2.2rem; color: #2d3748; margin-bottom: 16px; font-weight: 700;">:wave: Hello there! We're Web Hacker Team</h1>
-  <!-- 徽章组（UI 优化：统一圆角、阴影增强） -->
-  <div style="display: flex; gap: 12px; align-items: center; margin: 24px 0; flex-wrap: wrap;">
-    <a href="https://github.com/web-hacker-team" style="text-decoration: none;">
-      <img src="https://komarev.com/ghpvc/?username=web-hacker-team&label=Repo%20Views&color=0066cc&style=for-the-badge" alt="page views" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0, 102, 204, 0.2); transition: transform 0.2s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
-    </a>
-    <a href="https://github.com/web-hacker-team?tab=followers" style="text-decoration: none;">
-      <img src="https://img.shields.io/github/followers/web-hacker-team?label=Followers&logo=github&color=28a745&style=for-the-badge" alt="GitHub followers" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(40, 167, 69, 0.2); transition: transform 0.2s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
-    </a>
+<div align="center">
+ 
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/user-shield.svg"  width="80" style="color: #4a6fa5;" />
+ 
+# 🛡️ Web Hacker Team 
+ 
+**网络安全研究团队 | 专注漏洞发现与防护**
+ 
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 10px 20px; border-radius: 50px;">
+    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/location-dot.svg"  width="15" /> 中国 
+  </div>
+  <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 10px 20px; border-radius: 50px;">
+    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/calendar.svg"  width="15" /> 2024年1月成立
+  </div>
+  <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 10px 20px; border-radius: 50px;">
+    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/users.svg"  width="15" /> 2名成员 
   </div>
 </div>
-
-<!-- 定制 SVG 图形（贴合网络安全主题：盾牌+代码+团队标识） -->
-<div align="center" style="margin: 32px 0;">
-  <svg width="280" height="180" viewBox="0 0 280 180" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <!-- 背景渐变 -->
-    <rect width="280" height="180" rx="16" fill="url(#bgGradient)"/>
-    <!-- 盾牌轮廓（团队安全属性） -->
-    <path d="M140 20L100 60V120C100 140 120 160 140 160C160 160 180 140 180 120V60L140 20Z" stroke="#2d3748" stroke-width="3" fill="url(#shieldGradient)"/>
-    <!-- 代码符号（Web 技术属性） -->
-    <text x="130" y="80" font-family="Consolas, monospace" font-size="24" font-weight="bold" fill="#2d3748">{ }</text>
-    <text x="122" y="105" font-family="Consolas, monospace" font-size="16" fill="#2d3748">// Web Security</text>
-    <!-- 团队成员标识 -->
-    <circle cx="125" cy="135" r="4" fill="#0066cc"/>
-    <circle cx="155" cy="135" r="4" fill="#28a745"/>
-    <text x="110" y="155" font-family="Arial, sans-serif" font-size="12" fill="#2d3748">Searat & izut</text>
-    <!-- 渐变定义 -->
-    <defs>
-      <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#f8f9fa" stop-opacity="0.8"/>
-        <stop offset="100%" stop-color="#eaf6fa" stop-opacity="0.8"/>
-      </linearGradient>
-      <linearGradient id="shieldGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#e8f4f8"/>
-        <stop offset="100%" stop-color="#d1e7dd"/>
-      </linearGradient>
-    </defs>
-  </svg>
+ 
 </div>
-
-<!-- 右侧GIF（UI 优化：增强阴影、优化圆角） -->
-<img align="right" alt="Coding GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="360px" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.15); margin-left: 24px; margin-bottom: 24px; transition: box-shadow 0.3s ease;" onmouseover="this.style.boxShadow='0 6px 20px rgba(0,0,0,0.2)'" onmouseout="this.style.boxShadow='0 4px 16px rgba(0,0,0,0.15)'"/>
-
-<!-- 团队简介卡片（UI 优化：渐变背景、精致阴影、统一字体） -->
-<div style="background: linear-gradient(135deg, #f6f8fa 0%, #eaf6fa 100%); padding: 24px; border-radius: 16px; margin: 24px 0; box-shadow: 0 3px 12px rgba(0,0,0,0.08); font-family: 'Segoe UI', 'Roboto', sans-serif; line-height: 1.7;">
-  <p style="margin: 0; color: #2d3748; font-size: 1.05rem;">
-    <b style="color: #0066cc; font-weight: 600;">Web Hacker Team</b> was established in January 2024, comprising two dedicated members: Searat and izut. Our team is committed to the field of web security and binary security, conducting in-depth research and analysis to uncover vulnerabilities and enhance the overall security landscape of web applications and binary systems.
-  </p>
+ 
+## 👥 团队成员
+ 
+<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin: 30px 0;">
+ 
+<div style="text-align: center; padding: 20px; border-radius: 15px; background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%); width: 200px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
+  <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); margin: 0 auto 15px; display: flex; align-items: center; justify-content: center;">
+    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/user.svg"  width="40" style="color: white;" />
+  </div>
+  <h3>Searat</h3>
+  <p>联合创始人</p>
+  <p><small>Web & 二进制安全研究员</small></p>
 </div>
-
-## 📌 Team Basics
-<!-- 网格布局 UI 优化：统一渐变背景、hover 效果、精致圆角 -->
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; margin: 32px 0;">
-  <div style="background: linear-gradient(135deg, #e8f4f8 0%, #d1e7dd 100%); padding: 16px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); transition: transform 0.2s ease, box-shadow 0.2s ease;" onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.06)';">📍 <b style="color: #2d3748;">Location</b>: China 🇨🇳</div>
-  <div style="background: linear-gradient(135deg, #e8f4f8 0%, #d1e7dd 100%); padding: 16px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); transition: transform 0.2s ease, box-shadow 0.2s ease;" onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.06)';">📧 <b style="color: #2d3748;">Contact/Join</b>: <a href="mailto:web_hacker@163.com" style="color: #0066cc; text-decoration: none; font-weight: 500;">web_hacker@163.com</a></div>
-  <div style="background: linear-gradient(135deg, #e8f4f8 0%, #d1e7dd 100%); padding: 16px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); transition: transform 0.2s ease, box-shadow 0.2s ease;" onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.06)';">🤝 <b style="color: #2d3748;">Recruitment</b>: Looking for more members!</div>
-  <div style="background: linear-gradient(135deg, #e8f4f8 0%, #d1e7dd 100%); padding: 16px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); transition: transform 0.2s ease, box-shadow 0.2s ease;" onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.06)';">💬 <b style="color: #2d3748;">Tech Support</b>: Ask us any technical questions!</div>
-  <div style="background: linear-gradient(135deg, #e8f4f8 0%, #d1e7dd 100%); padding: 16px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); transition: transform 0.2s ease, box-shadow 0.2s ease;" onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.06)';">👨🏻‍💻 <b style="color: #2d3748;">Projects</b>: Hosted on GitHub</div>
-  <div style="background: linear-gradient(135deg, #e8f4f8 0%, #d1e7dd 100%); padding: 16px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); transition: transform 0.2s ease, box-shadow 0.2s ease;" onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.06)';">💻 <b style="color: #2d3748;">Members</b>: Cybersecurity experts (Searat & izut)</div>
-  <div style="background: linear-gradient(135deg, #e8f4f8 0%, #d1e7dd 100%); padding: 16px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); transition: transform 0.2s ease, box-shadow 0.2s ease;" onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.06)';">🎯 <b style="color: #2d3748;">Focus</b>: Open-source security tools & research</div>
-  <div style="background: linear-gradient(135deg, #e8f4f8 0%, #d1e7dd 100%); padding: 16px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); transition: transform 0.2s ease, box-shadow 0.2s ease;" onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.06)';">🎮 <b style="color: #2d3748;">Hobby</b>: PVP games for relaxation</div>
+ 
+<div style="text-align: center; padding: 20px; border-radius: 15px; background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%); width: 200px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
+  <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); margin: 0 auto 15px; display: flex; align-items: center; justify-content: center;">
+    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/user.svg"  width="40" style="color: white;" />
+  </div>
+  <h3>izut</h3>
+  <p>联合创始人</p>
+  <p><small>漏洞分析师</small></p>
 </div>
-
-## 🧐 A little more about us...
-<!-- 代码卡片 UI 优化：深色渐变、精致边框、字体优化 -->
-<div style="background: linear-gradient(135deg, #2d3748 0%, #1a202c 100%); color: #e2e8f0; padding: 28px; border-radius: 16px; font-family: 'Consolas', 'Monaco', monospace; box-shadow: 0 4px 16px rgba(0,0,0,0.2); margin: 32px 0;">
-<pre style="margin: 0; line-height: 1.8; font-size: 1.05rem;">
-CONST WEB_HACKER_TEAM = {
-  pronouns: "He" | "him",
-  team_members: ["Searat", "izut"],
-  backend: ["Python", "PHP", "HTML"],
-  database: ["mySQL", "Redis"],
-  challenge: "We will continue to contribute to the field of cyber security."
-}
-</pre>
+ 
 </div>
-
-<!-- GitHub统计（UI 优化：增加容器、居中对齐、阴影） -->
-<div style="margin: 36px 0; text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=web-hacker-team&show_icons=true&theme=tokyonight&hide_border=true" alt="web-hacker-team" width="420px" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);"/>
+ 
+## 💻 技术栈 
+ 
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px; margin: 30px 0;">
+ 
+<div style="text-align: center; padding: 20px; background-color: #f8f9fa; border-radius: 10px; box-shadow: 0 3px 10px rgba(0,0,0,0.1);">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  width="50" />
+  <h4>Python</h4>
+  <p><small>后端开发</small></p>
 </div>
-
-## 🛠️ Our Discovered Vulnerabilities
-<!-- 表格 UI 优化：圆角增强、hover 行效果、颜色统一 -->
-<div style="overflow-x: auto; margin: 32px 0; border-radius: 12px; box-shadow: 0 3px 12px rgba(0,0,0,0.08);">
-  <table style="width: 100%; border-collapse: collapse; border: none; border-radius: 12px; overflow: hidden;">
-    <thead>
-      <tr style="background: linear-gradient(135deg, #f6f8fa 0%, #eaf6fa 100%);">
-        <th style="padding: 16px; text-align: left; border-bottom: 2px solid #d1e7dd; color: #2d3748; font-weight: 600;">CVE ID</th>
-        <th style="padding: 16px; text-align: left; border-bottom: 2px solid #d1e7dd; color: #2d3748; font-weight: 600;">Vulnerability Type</th>
-        <th style="padding: 16px; text-align: left; border-bottom: 2px solid #d1e7dd; color: #2d3748; font-weight: 600;">Affected Product</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr style="background-color: #ffffff; transition: background-color 0.2s ease;" onmouseover="this.style.backgroundColor='#f8f9fa'" onmouseout="this.style.backgroundColor='#ffffff'">
-        <td style="padding: 14px; border-bottom: 1px solid #eaf6fa; color: #2d3748;"><a href="https://www.cve.org/CVERecord?id=CVE-2024-8029" style="color: #0066cc; text-decoration: none; font-weight: 500;">CVE-2024-8029</a></td>
-        <td style="padding: 14px; border-bottom: 1px solid #eaf6fa; color: #2d3748;">Stored XSS</td>
-        <td style="padding: 14px; border-bottom: 1px solid #eaf6fa; color: #2d3748;">imartinez/privategpt</td>
-      </tr>
-      <tr style="background-color: #fafafa; transition: background-color 0.2s ease;" onmouseover="this.style.backgroundColor='#f0f8fb'" onmouseout="this.style.backgroundColor='#fafafa'">
-        <td style="padding: 14px; border-bottom: 1px solid #eaf6fa; color: #2d3748;"><a href="https://www.cve.org/CVERecord?id=CVE-2024-7962" style="color: #0066cc; text-decoration: none; font-weight: 500;">CVE-2024-7962</a></td>
-        <td style="padding: 14px; border-bottom: 1px solid #eaf6fa; color: #2d3748;">Arbitrary File Read</td>
-        <td style="padding: 14px; border-bottom: 1px solid #eaf6fa; color: #2d3748;">gaizhenbiao/chuanhuchatgpt</td>
-      </tr>
-      <tr style="background-color: #ffffff; transition: background-color 0.2s ease;" onmouseover="this.style.backgroundColor='#f8f9fa'" onmouseout="this.style.backgroundColor='#ffffff'">
-        <td style="padding: 14px; border-bottom: 1px solid #eaf6fa; color: #2d3748;"><a href="https://www.cve.org/CVERecord?id=CVE-2024-50405" style="color: #0066cc; text-decoration: none; font-weight: 500;">CVE-2024-50405</a></td>
-        <td style="padding: 14px; border-bottom: 1px solid #eaf6fa; color: #2d3748;">CRLF Injection</td>
-        <td style="padding: 14px; border-bottom: 1px solid #eaf6fa; color: #2d3748;">QTS and QuTS hero</td>
-      </tr>
-      <tr style="background-color: #fafafa; transition: background-color 0.2s ease;" onmouseover="this.style.backgroundColor='#f0f8fb'" onmouseout="this.style.backgroundColor='#fafafa'">
-        <td style="padding: 14px; border-bottom: 1px solid #eaf6fa; color: #2d3748;"><a href="https://www.cve.org/CVERecord?id=CVE-2024-53693" style="color: #0066cc; text-decoration: none; font-weight: 500;">CVE-2024-53693</a></td>
-        <td style="padding: 14px; border-bottom: 1px solid #eaf6fa; color: #2d3748;">CRLF Injection</td>
-        <td style="padding: 14px; border-bottom: 1px solid #eaf6fa; color: #2d3748;">QTS and QuTS hero</td>
-      </tr>
-      <tr style="background-color: #ffffff; transition: background-color 0.2s ease;" onmouseover="this.style.backgroundColor='#f8f9fa'" onmouseout="this.style.backgroundColor='#ffffff'">
-        <td style="padding: 14px; color: #2d3748;"><a href="https://www.cve.org/CVERecord?id=CVE-2025-3535" style="color: #0066cc; text-decoration: none; font-weight: 500;">CVE-2025-3535</a></td>
-        <td style="padding: 14px; color: #2d3748;">Denial of Service</td>
-        <td style="padding: 14px; color: #2d3748;">shuanx BurpAPIFinder v2.0.2</td>
-      </tr>
-    </tbody>
-  </table>
+ 
+<div style="text-align: center; padding: 20px; background-color: #f8f9fa; border-radius: 10px; box-shadow: 0 3px 10px rgba(0,0,0,0.1);">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"  width="50" />
+  <h4>PHP</h4>
+  <p><small>Web开发</small></p>
 </div>
-
----
-<div align="center" style="margin: 40px 0; font-size: 1.1rem; color: #2d3748; font-weight: 500;">⭐ Star our repo if our work helps you!</div>
+ 
+<div style="text-align: center; padding: 20px; background-color: #f8f9fa; border-radius: 10px; box-shadow: 0 3px 10px rgba(0,0,0,0.1);">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"  width="50" />
+  <h4>MySQL</h4>
+  <p><small>数据库</small></p>
+</div>
+ 
+<div style="text-align: center; padding: 20px; background-color: #f8f9fa; border-radius: 10px; box-shadow: 0 3px 10px rgba(0,0,0,0.1);">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"  width="50" />
+  <h4>Redis</h4>
+  <p><small>缓存数据库</small></p>
+</div>
+ 
+</div>
+ 
+## ⚠️ 发现的安全漏洞
+ 
+<div style="background-color: #fff5f5; border-left: 5px solid #f56565; padding: 20px; border-radius: 0 10px 10px 0; margin: 30px 0;">
+ 
+<h3><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/triangle-exclamation.svg"  width="25" style="color: #f56565;" /> CVE 漏洞列表</h3>
+ 
+<div style="overflow-x: auto; margin-top: 15px;">
+<table style="width: 100%; border-collapse: collapse; min-width: 600px;">
+  <thead>
+    <tr style="background-color: #fed7d7;">
+      <th style="padding: 12px; text-align: left;">CVE ID</th>
+      <th style="padding: 12px; text-align: left;">漏洞类型</th>
+      <th style="padding: 12px; text-align: left;">受影响项目</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="border-bottom: 1px solid #e2e8f0;">
+      <td style="padding: 10px;"><strong>CVE-2024-8029</strong></td>
+      <td style="padding: 10px;">存储型 XSS</td>
+      <td style="padding: 10px;">imartinez/privategpt</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #e2e8f0;">
+      <td style="padding: 10px;"><strong>CVE-2024-7962</strong></td>
+      <td style="padding: 10px;">任意文件读取</td>
+      <td style="padding: 10px;">gaizhenbiao/chuanhuchatgpt</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #e2e8f0;">
+      <td style="padding: 10px;"><strong>CVE-2024-50405</strong></td>
+      <td style="padding: 10px;">CRLF 注入</td>
+      <td style="padding: 10px;">QTS and QuTS hero</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #e2e8f0;">
+      <td style="padding: 10px;"><strong>CVE-2024-53693</strong></td>
+      <td style="padding: 10px;">CRLF 注入</td>
+      <td style="padding: 10px;">QTS and QuTS hero</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;"><strong>CVE-2025-3535</strong></td>
+      <td style="padding: 10px;">拒绝服务</td>
+      <td style="padding: 10px;">shuanx BurpAPIFinder v2.0.2</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+ 
+</div>
+ 
+## 📞 联系方式 
+ 
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin: 30px 0;">
+ 
+<div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); border-radius: 10px;">
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg"  width="30" />
+  <h4>邮箱</h4>
+  <p>web_hacker@163.com</p>
+</div>
+ 
+<div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #d299c2 0%, #fef9d7 100%); border-radius: 10px;">
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/briefcase.svg"  width="30" />
+  <h4>招聘</h4>
+  <p>正在招聘安全研究员</p>
+</div>
+ 
+<div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #89f7fe 0%, #66a6ff 100%); border-radius: 10px;">
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/comments.svg"  width="30" />
+  <h4>技术支持</h4>
+  <p>提供开源安全工具支持</p>
+</div>
+ 
+<div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); border-radius: 10px;">
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/gamepad.svg"  width="30" />
+  <h4>兴趣爱好</h4>
+  <p>PVP游戏爱好者</p>
+</div>
+ 
+</div>
+ 
+<div align="center" style="margin-top: 40px; padding: 30px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border-radius: 15px;">
+ 
+<h3><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/bullseye.svg"  width="25" /> 团队使命</h3>
+<p style="font-size: 1.2em; max-width: 800px; margin: 15px auto;">
+我们将持续为网络安全领域贡献力量，专注于发现和修复安全漏洞，开发开源安全工具，提升整体网络安全水平。
+</p>
+ 
+</div>
