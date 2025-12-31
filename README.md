@@ -18,14 +18,9 @@
  
 ## 🚀 团队概述 
  
-Web Hacker Team 成立于 **2024 年 1 月**，由两名专注于网络安全研究的成员组成。我们致力于网络应用和二进制系统的安全研究，通过深入分析发现漏洞，提升整体安全防护水平。
+Web Hacker Team 成立于 **2024 年 1 月**，由专注于网络安全研究的成员组成。我们致力于网络应用和二进制系统的安全研究，通过深入分析发现漏洞，提升整体安全防护水平。
  
 <div align="center">
- 
-| <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/user-secret.svg"  width="30" /> **团队成员** | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/code.svg"  width="30" /> **技术栈** |
-|:---:|:---:|
-| **Searat** - 联合创始人 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  width="25" title="Python" /> **Python** |
-| **izut** - 联合创始人 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"  width="25" title="PHP" /> **PHP** |
  
 </div>
  
@@ -58,8 +53,8 @@ Web Hacker Team 成立于 **2024 年 1 月**，由两名专注于网络安全研
 |--------|---------|-----------|------|
 | ![CVE](https://img.shields.io/badge/CVE--2024--8029-medium?style=flat-square)  | 存储型XSS | imartinez/privategpt | <span style="color:green">已修复</span> |
 | ![CVE](https://img.shields.io/badge/CVE--2024--7962-high?style=flat-square)  | 任意文件读取 | gaizhenbiao/chuanhuchatgpt | <span style="color:green">已修复</span> |
-| ![CVE](https://img.shields.io/badge/CVE--2024--50405-medium?style=flat-square)  | CRLF注入 | QTS/QuTS hero | <span style="color:orange">已修复</span> |
-| ![CVE](https://img.shields.io/badge/CVE--2024--53693-medium?style=flat-square)  | CRLF注入 | QTS/QuTS hero | <span style="color:orange">已修复</span> |
+| ![CVE](https://img.shields.io/badge/CVE--2024--50405-medium?style=flat-square)  | CRLF注入 | QuTS hero | <span style="color:orange">已修复</span> |
+| ![CVE](https://img.shields.io/badge/CVE--2024--53693-medium?style=flat-square)  | CRLF注入 | QuTS hero | <span style="color:orange">已修复</span> |
 | ![CVE](https://img.shields.io/badge/CVE--2025--3535-high?style=flat-square)  | 拒绝服务 | BurpAPIFinder v2.0.2 | <span style="color:green">已修复</span> |
  
 ## 📬 联系我们 
