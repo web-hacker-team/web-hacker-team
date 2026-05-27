@@ -3,6 +3,8 @@
 <!-- 动态矩阵雨 GIF 作为 Banner -->
 <img src="https://raw.githubusercontent.com/WebHackerTeam/.github/main/assets/matrix-banner.gif" width="100%" alt="Matrix Rain Banner" />
 
+<br />
+
 # <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/shield-halved.svg" width="36" /> **WEB HACKER TEAM**
 
 ```
@@ -11,7 +13,7 @@ $ whoami
 >> We break things to make them stronger.
 ```
 
-<div style="display: flex; justify-content: center; gap: 12px; margin: 20px 0; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 10px; margin: 15px 0; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/%F0%9F%93%8D_CHINA-000?style=for-the-badge&logo=location-dot&logoColor=red&labelColor=000" alt="Location: China" />
   <img src="https://img.shields.io/badge/STATUS-HUNTING-00ff00?style=for-the-badge&logo=target&logoColor=00ff00&labelColor=000" alt="Status: Hunting" />
   <img src="https://img.shields.io/badge/WANTED-NEW_TALENT-ff00ff?style=for-the-badge&logo=linkedin&logoColor=ff00ff&labelColor=000" alt="Hiring Now" />
@@ -25,21 +27,22 @@ $ whoami
 ---
 
 > [!IMPORTANT]
-> **我们正在寻找 0-day 猎手。** 如果你擅长 Web / Binary / IoT 漏洞挖掘，欢迎通过底部的加密通道联系我们。
+> **我们正在寻找 0-day 猎手。** 如果你擅长 Web / Binary / IoT 漏洞挖掘，欢迎通过底部邮箱联系我们。
 
 ---
 
-## 📡 [ MISSION BRIEFING ]
+## 📡 MISSION BRIEFING
 
 <details open>
-<summary><b>🔓 点击展开 | 了解我们的使命</b></summary>
-<br>
+<summary><b>🔓 点击折叠 | 了解我们的研究方向</b></summary>
+
+<br />
 
 | 领域 | 方向 | 威胁等级 |
 |------|------|----------|
-| **Web 应用** | SQL 注入、XSS、SSRF、反序列化 | `█████████░` CRITICAL |
-| **二进制/IoT** | 缓冲区溢出、命令注入、权限提升 | `████████░░` HIGH |
-| **云/网络设备** | NAS 漏洞、防火墙绕过、DoS | `███████░░░` ELEVATED |
+| **🌐 Web 应用** | SQL 注入 · XSS · SSRF · 反序列化 | `█████████░` CRITICAL |
+| **💾 二进制 / IoT** | 缓冲区溢出 · 命令注入 · 权限提升 | `████████░░` HIGH |
+| **☁️ 云 / 网络设备** | NAS 漏洞 · 防火墙绕过 · DoS | `███████░░░` ELEVATED |
 
 > 我们专注于 **零日漏洞发现** 与 **安全研究**，累计向 QNAP、Synology 等厂商报送 22+ 个 CVE。
 
@@ -47,12 +50,12 @@ $ whoami
 
 ---
 
-## 🧬 [ TECH DNA ]
+## 🧬 TECH DNA
 
 <div align="center">
 
 | 🧠 漏洞挖掘 | ⚔️ 渗透测试 | 🔬 逆向工程 | ☁️ 云安全 |
-|-------------|-------------|-------------|-----------|
+|:-----------:|:-----------:|:-----------:|:---------:|
 | `IDA Pro` | `Burp Suite` | `Ghidra` | `Kubernetes` |
 | `GDB / WinDbg` | `Metasploit` | `Frida` | `Docker` |
 | `CodeQL` | `Nmap / Masscan` | `dnSpy` | `AWS / Azure` |
@@ -61,50 +64,52 @@ $ whoami
 
 ---
 
-## 📂 [ CVE DATABASE ]
+## 📂 CVE DATABASE
 
 <details open>
-<summary><b>📋 点击展开/折叠 | 查看全部漏洞记录（22个）</b></summary>
-<br>
+<summary><b>📋 点击折叠 | 查看全部漏洞记录（共 22 个）</b></summary>
+
+<br />
 
 | CVE ID | 漏洞类型 | 影响产品 | 严重度 |
-|--------|----------|----------|--------|
-| [![CVE](https://img.shields.io/badge/CVE--2024--7962-high?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2024-7962) | Arbitrary File Read | gaizhenbiao/chuanhuchatgpt | 🔴 `高` |
-| [![CVE](https://img.shields.io/badge/CVE--2024--8029-medium?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2024-8029) | Cross-Site Scripting | imartinez/privategpt | 🟡 `中` |
-| [![CVE](https://img.shields.io/badge/CVE--2024--12923-low?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2024-12923) | Cross-Site Scripting | Photo Station | 🟢 `低` |
-| [![CVE](https://img.shields.io/badge/CVE--2024--50405-medium?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2024-50405) | CRLF Injection | QuTS hero | 🟡 `中` |
-| [![CVE](https://img.shields.io/badge/CVE--2024--50406-medium?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2024-50406) | Cross-Site Scripting | License Center | 🟡 `中` |
-| [![CVE](https://img.shields.io/badge/CVE--2024--53693-medium?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2024-53693) | CRLF Injection | QuTS hero | 🟡 `中` |
-| [![CVE](https://img.shields.io/badge/CVE--2024--56804-high?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2024-56804) | SQL Injection | Video Station | 🔴 `高` |
-| [![CVE](https://img.shields.io/badge/CVE--2024--56805-high?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2024-56805) | Buffer Overflow | QNAP OS | 🔴 `高` |
-| [![CVE](https://img.shields.io/badge/CVE--2025--22481-high?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2025-22481) | Command Injection | QNAP OS | 🔴 `高` |
-| [![CVE](https://img.shields.io/badge/CVE--2025--22482-medium?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2025-22482) | Format String | Qsync Central | 🟡 `中` |
-| [![CVE](https://img.shields.io/badge/CVE--2025--29898-medium?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2025-29898) | Denial of Service | Qsync Central | 🟡 `中` |
-| [![CVE](https://img.shields.io/badge/CVE--2025--30264-high?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2025-30264) | Command Injection | QNAP OS | 🔴 `高` |
-| [![CVE](https://img.shields.io/badge/CVE--2025--30265-high?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2025-30265) | Buffer Overflow | QNAP OS | 🔴 `高` |
-| [![CVE](https://img.shields.io/badge/CVE--2025--3535-high?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2025-3535) | Denial of Service | BurpAPIFinder v2.0.2 | 🔴 `高` |
-| [![CVE](https://img.shields.io/badge/CVE--2025--52867-medium?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2025-52867) | Denial of Service | Qsync Central | 🟡 `中` |
-| [![CVE](https://img.shields.io/badge/CVE--2025--52868-high?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2025-52868) | Buffer Overflow | Qsync Central | 🔴 `高` |
-| [![CVE](https://img.shields.io/badge/CVE--2025--52869-high?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2025-52869) | Buffer Overflow | Qsync Central | 🔴 `高` |
-| [![CVE](https://img.shields.io/badge/CVE--2025--52870-high?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2025-52870) | Buffer Overflow | Qsync Central | 🔴 `高` |
-| [![CVE](https://img.shields.io/badge/CVE--2026--40532-medium?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2026-40532) | Forced Browsing | Synology DSM | 🟡 `中` |
-| [![CVE](https://img.shields.io/badge/CVE--2026--40536-medium?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2026-40536) | Path Traversal | Synology DSM | 🟡 `中` |
-| [![CVE](https://img.shields.io/badge/CVE--2026--46686-medium?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2026-46686) | Cross-Site Scripting | emlog/emlog | 🟡 `中` |
-| [![CVE](https://img.shields.io/badge/CVE--2026--46687-high?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2026-46687) | Local File Inclusion | emlog/emlog | 🔴 `高` |
+|--------|----------|----------|:------:|
+| [![CVE](https://img.shields.io/badge/CVE--2024--7962-high?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2024-7962) | Arbitrary File Read | gaizhenbiao/chuanhuchatgpt | 🔴 |
+| [![CVE](https://img.shields.io/badge/CVE--2024--8029-medium?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2024-8029) | Cross-Site Scripting | imartinez/privategpt | 🟡 |
+| [![CVE](https://img.shields.io/badge/CVE--2024--12923-low?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2024-12923) | Cross-Site Scripting | Photo Station | 🟢 |
+| [![CVE](https://img.shields.io/badge/CVE--2024--50405-medium?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2024-50405) | CRLF Injection | QuTS hero | 🟡 |
+| [![CVE](https://img.shields.io/badge/CVE--2024--50406-medium?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2024-50406) | Cross-Site Scripting | License Center | 🟡 |
+| [![CVE](https://img.shields.io/badge/CVE--2024--53693-medium?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2024-53693) | CRLF Injection | QuTS hero | 🟡 |
+| [![CVE](https://img.shields.io/badge/CVE--2024--56804-high?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2024-56804) | SQL Injection | Video Station | 🔴 |
+| [![CVE](https://img.shields.io/badge/CVE--2024--56805-high?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2024-56805) | Buffer Overflow | QNAP OS | 🔴 |
+| [![CVE](https://img.shields.io/badge/CVE--2025--22481-high?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2025-22481) | Command Injection | QNAP OS | 🔴 |
+| [![CVE](https://img.shields.io/badge/CVE--2025--22482-medium?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2025-22482) | Format String | Qsync Central | 🟡 |
+| [![CVE](https://img.shields.io/badge/CVE--2025--29898-medium?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2025-29898) | Denial of Service | Qsync Central | 🟡 |
+| [![CVE](https://img.shields.io/badge/CVE--2025--30264-high?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2025-30264) | Command Injection | QNAP OS | 🔴 |
+| [![CVE](https://img.shields.io/badge/CVE--2025--30265-high?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2025-30265) | Buffer Overflow | QNAP OS | 🔴 |
+| [![CVE](https://img.shields.io/badge/CVE--2025--3535-high?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2025-3535) | Denial of Service | BurpAPIFinder v2.0.2 | 🔴 |
+| [![CVE](https://img.shields.io/badge/CVE--2025--52867-medium?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2025-52867) | Denial of Service | Qsync Central | 🟡 |
+| [![CVE](https://img.shields.io/badge/CVE--2025--52868-high?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2025-52868) | Buffer Overflow | Qsync Central | 🔴 |
+| [![CVE](https://img.shields.io/badge/CVE--2025--52869-high?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2025-52869) | Buffer Overflow | Qsync Central | 🔴 |
+| [![CVE](https://img.shields.io/badge/CVE--2025--52870-high?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2025-52870) | Buffer Overflow | Qsync Central | 🔴 |
+| [![CVE](https://img.shields.io/badge/CVE--2026--40532-medium?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2026-40532) | Forced Browsing | Synology DSM | 🟡 |
+| [![CVE](https://img.shields.io/badge/CVE--2026--40536-medium?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2026-40536) | Path Traversal | Synology DSM | 🟡 |
+| [![CVE](https://img.shields.io/badge/CVE--2026--46686-medium?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2026-46686) | Cross-Site Scripting | emlog/emlog | 🟡 |
+| [![CVE](https://img.shields.io/badge/CVE--2026--46687-high?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2026-46687) | Local File Inclusion | emlog/emlog | 🔴 |
 
 </details>
 
 ---
 
-## 📊 [ THREAT ANALYTICS ]
+## 📊 THREAT ANALYTICS
 
 <details open>
-<summary><b>📈 点击展开 | 查看漏洞统计图表</b></summary>
-<br>
+<summary><b>📈 点击折叠 | 查看漏洞统计图表</b></summary>
+
+<br />
 
 <div align="center">
 
-### 严重度分布
+**严重度分布**
 
 ```mermaid
 pie title CVE Severity Distribution
@@ -113,7 +118,7 @@ pie title CVE Severity Distribution
     "🟢 Low (1)" : 1
 ```
 
-### 受影响产品 TOP 5
+**受影响产品 TOP 5**
 
 ```mermaid
 xychart-beta
@@ -129,24 +134,13 @@ xychart-beta
 
 ---
 
-## 📬 [ ESTABLISH CONNECTION ]
+## 📬 CONTACT
 
 <div align="center">
 
-> [!CAUTION]
-> **安全研究员请使用 PGP 加密通信**
-
-```
------BEGIN PGP PUBLIC KEY BLOCK-----
-（此处放置团队 PGP 公钥）
------END PGP PUBLIC KEY BLOCK-----
-```
-
-| 联系方式 | 地址 |
-|----------|------|
-| 📧 **E-mail** | `web_hacker@163.com` |
-| 🔑 **PGP Fingerprint** | `coming soon` |
-| 🐙 **GitHub** | [@WebHackerTeam](https://github.com/WebHackerTeam) |
+| 📧 **E-mail** | 🐙 **GitHub** |
+|:-------------:|:-------------:|
+| `web_hacker@163.com` | [@WebHackerTeam](https://github.com/WebHackerTeam) |
 
 </div>
 
@@ -154,13 +148,15 @@ xychart-beta
 
 <div align="center">
 
-```ascii
+<br />
+
+```
 ┌────────────────────────────────────────────────┐
 │  ⚡ We hack for security, not for chaos. ⚡   │
 │  Thanks for visiting our digital playground.  │
 └────────────────────────────────────────────────┘
 ```
 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/terminal.svg" width="20" /> <sub>root@webhacker:~# exit</sub>
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/terminal.svg" width="16" /> <sub>root@webhacker:~# exit</sub>
 
 </div>
