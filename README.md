@@ -1,131 +1,90 @@
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/WebHackerTeam/.github/main/assets/matrix-banner.gif" width="100%" alt="Banner" />
-
-<br />
-
-```
- ██╗    ██╗███████╗██████╗       ██╗  ██╗ █████╗  ██████╗██╗  ██╗
- ██║    ██║██╔════╝██╔══██╗      ██║  ██║██╔══██╗██╔════╝██║ ██╔╝
- ██║ █╗ ██║█████╗  ██████╔╝█████╗███████║███████║██║     █████╔╝ 
- ██║███╗██║██╔══╝  ██╔══██╗╚════╝██╔══██║██╔══██║██║     ██╔═██╗ 
- ╚███╔███╔╝███████╗██████╔╝      ██║  ██║██║  ██║╚██████╗██║  ██╗
-  ╚══╝╚══╝ ╚══════╝╚═════╝       ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
-```
-
-**Cybersecurity Research Collective · Est. 2024**
-
-<img src="https://img.shields.io/badge/LOCATION-CHINA-red?style=for-the-badge&logo=location-dot&logoColor=red&labelColor=111" />
-<img src="https://img.shields.io/badge/STATUS-HUNTING-00ff00?style=for-the-badge&logo=target&logoColor=00ff00&labelColor=111" />
-<img src="https://img.shields.io/badge/WANTED-NEW_TALENT-ff00ff?style=for-the-badge&logo=linkedin&logoColor=ff00ff&labelColor=111" />
-
+  <img src="https://raw.githubusercontent.com/WebHackerTeam/.github/main/assets/matrix-banner.gif" width="100%" alt="Banner" />
 </div>
 
 <br />
 
+<!-- 模拟终端窗口头部 -->
+<div style="background-color: #1e1e1e; border: 1px solid #333; border-radius: 6px 6px 0 0; padding: 8px 12px; margin-bottom: 0;">
+  <span style="color: #ff5f56; font-size: 12px;">●</span>
+  <span style="color: #ffbd2e; font-size: 12px; margin-left: 6px;">●</span>
+  <span style="color: #27c93f; font-size: 12px; margin-left: 6px;">●</span>
+  <span style="color: #999; font-size: 12px; margin-left: 12px;">webhacker@team:~</span>
+</div>
+
+<div align="left" style="background-color: #0d1117; border: 1px solid #333; border-top: 0; border-radius: 0 0 6px 6px; padding: 20px; font-family: 'Courier New', Courier, monospace; color: #c9d1d9;">
+
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                     MISSION BRIEFING                         ║
-╚══════════════════════════════════════════════════════════════╝
+webhacker@team:~$ ssh root@webhacker-team.org
+
+███████╗███████╗ ██████╗██╗   ██╗██████╗ ██╗████████╗██╗   ██╗
+██╔════╝██╔════╝██╔════╝██║   ██║██╔══██╗██║╚══██╔══╝╚██╗ ██╔╝
+███████╗█████╗  ██║     ██║   ██║██████╔╝██║   ██║    ╚████╔╝ 
+╚════██║██╔══╝  ██║     ██║   ██║██╔══██╗██║   ██║     ╚██╔╝  
+███████║███████╗╚██████╗╚██████╔╝██║  ██║██║   ██║      ██║   
+╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝      ╚═╝   
+
+Last login: Thu May 27 03:14:15 2026 from 192.168.1.100
+```
+
+```
+webhacker@team:~$ cat /etc/motd
 ```
 
 > [!IMPORTANT]
-> **We are hunting for 0-day hunters.** If you're skilled in Web / Binary / IoT vulnerability discovery, your seat is waiting. Reach us via email at the bottom.
-
-<br />
-
-<table>
-<tr>
-<td align="center" width="33%"><b>🌐 WEB</b></td>
-<td align="center" width="33%"><b>💾 BINARY / IoT</b></td>
-<td align="center" width="33%"><b>☁️ CLOUD / NETWORK</b></td>
-</tr>
-<tr>
-<td align="center">SQLi · XSS · SSRF<br>Deserialization · RCE</td>
-<td align="center">Buffer Overflow<br>Command Injection · PrivEsc</td>
-<td align="center">NAS Vulns · Firewall Bypass<br>DoS · Auth Bypass</td>
-</tr>
-</table>
-
-> 22+ CVEs reported to QNAP, Synology, emlog, and more. All fixed. ✅
-
-<br />
+> **我们正在寻找 0-day 猎手。**
+> 如果你擅长 Web / Binary / IoT 漏洞挖掘，欢迎加入我们的远程团队。
+> 邮箱已在下方公开，随时欢迎投递你的 POC。
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                       TECH ARSENAL                          ║
-╚══════════════════════════════════════════════════════════════╝
+webhacker@team:~$ ls -la /opt/arsenal/
 ```
 
-<div align="center">
-
-| 漏洞挖掘 | 渗透测试 | 逆向工程 | 云安全 |
-|:--------:|:--------:|:--------:|:------:|
+| 🧠 漏洞挖掘 | ⚔️ 渗透测试 | 🔬 逆向工程 | ☁️ 云安全 |
+|:-----------|:-----------|:-----------|:---------|
 | `IDA Pro` `GDB/WinDbg` `CodeQL` | `Burp Suite` `Metasploit` `Nmap` | `Ghidra` `Frida` `dnSpy` | `K8s` `Docker` `AWS/Azure` |
 
-</div>
-
-<br />
-
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                    CVE DISCLOSURE LOGS                       ║
-╚══════════════════════════════════════════════════════════════╝
+webhacker@team:~$ cat /var/log/cve_disclosure.log
 ```
 
 <details open>
-<summary><b>> cat /var/log/cve_disclosure.log | head -22</b></summary>
+<summary><b>📋 点击折叠 | 共发现 22 个漏洞，所有漏洞均已修复</b></summary>
 
 <br />
 
-```
-[2024-07] CVE-2024-7962  🔴 HIGH    | Arbitrary File Read        | gaizhenbiao/chuanhuchatgpt
-[2024-08] CVE-2024-8029  🟡 MEDIUM  | Cross-Site Scripting       | imartinez/privategpt
-[2024-09] CVE-2024-12923 🟢 LOW     | Cross-Site Scripting       | Photo Station
-[2024-09] CVE-2024-50405 🟡 MEDIUM  | CRLF Injection             | QuTS hero
-[2024-09] CVE-2024-50406 🟡 MEDIUM  | Cross-Site Scripting       | License Center
-[2024-09] CVE-2024-53693 🟡 MEDIUM  | CRLF Injection             | QuTS hero
-[2024-10] CVE-2024-56804 🔴 HIGH    | SQL Injection              | Video Station
-[2024-10] CVE-2024-56805 🔴 HIGH    | Buffer Overflow            | QNAP OS
-[2025-01] CVE-2025-22481 🔴 HIGH    | Command Injection          | QNAP OS
-[2025-01] CVE-2025-22482 🟡 MEDIUM  | Format String              | Qsync Central
-[2025-02] CVE-2025-29898 🟡 MEDIUM  | Denial of Service          | Qsync Central
-[2025-03] CVE-2025-30264 🔴 HIGH    | Command Injection          | QNAP OS
-[2025-03] CVE-2025-30265 🔴 HIGH    | Buffer Overflow            | QNAP OS
-[2025-04] CVE-2025-3535  🔴 HIGH    | Denial of Service          | BurpAPIFinder v2.0.2
-[2025-05] CVE-2025-52867 🟡 MEDIUM  | Denial of Service          | Qsync Central
-[2025-05] CVE-2025-52868 🔴 HIGH    | Buffer Overflow            | Qsync Central
-[2025-05] CVE-2025-52869 🔴 HIGH    | Buffer Overflow            | Qsync Central
-[2025-05] CVE-2025-52870 🔴 HIGH    | Buffer Overflow            | Qsync Central
-[2026-03] CVE-2026-40532 🟡 MEDIUM  | Forced Browsing            | Synology DSM
-[2026-03] CVE-2026-40536 🟡 MEDIUM  | Path Traversal             | Synology DSM
-[2026-04] CVE-2026-46686 🟡 MEDIUM  | Cross-Site Scripting       | emlog/emlog
-[2026-04] CVE-2026-46687 🔴 HIGH    | Local File Inclusion       | emlog/emlog
-```
+| CVE ID | 漏洞类型 | 影响产品 | 严重度 |
+|--------|----------|----------|:------:|
+| [![CVE](https://img.shields.io/badge/CVE--2024--7962-high?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2024-7962) | Arbitrary File Read | gaizhenbiao/chuanhuchatgpt | 🔴 |
+| [![CVE](https://img.shields.io/badge/CVE--2024--8029-medium?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2024-8029) | Cross-Site Scripting | imartinez/privategpt | 🟡 |
+| [![CVE](https://img.shields.io/badge/CVE--2024--12923-low?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2024-12923) | Cross-Site Scripting | Photo Station | 🟢 |
+| [![CVE](https://img.shields.io/badge/CVE--2024--50405-medium?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2024-50405) | CRLF Injection | QuTS hero | 🟡 |
+| [![CVE](https://img.shields.io/badge/CVE--2024--50406-medium?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2024-50406) | Cross-Site Scripting | License Center | 🟡 |
+| [![CVE](https://img.shields.io/badge/CVE--2024--53693-medium?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2024-53693) | CRLF Injection | QuTS hero | 🟡 |
+| [![CVE](https://img.shields.io/badge/CVE--2024--56804-high?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2024-56804) | SQL Injection | Video Station | 🔴 |
+| [![CVE](https://img.shields.io/badge/CVE--2024--56805-high?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2024-56805) | Buffer Overflow | QNAP OS | 🔴 |
+| [![CVE](https://img.shields.io/badge/CVE--2025--22481-high?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2025-22481) | Command Injection | QNAP OS | 🔴 |
+| [![CVE](https://img.shields.io/badge/CVE--2025--22482-medium?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2025-22482) | Format String | Qsync Central | 🟡 |
+| [![CVE](https://img.shields.io/badge/CVE--2025--29898-medium?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2025-29898) | Denial of Service | Qsync Central | 🟡 |
+| [![CVE](https://img.shields.io/badge/CVE--2025--30264-high?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2025-30264) | Command Injection | QNAP OS | 🔴 |
+| [![CVE](https://img.shields.io/badge/CVE--2025--30265-high?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2025-30265) | Buffer Overflow | QNAP OS | 🔴 |
+| [![CVE](https://img.shields.io/badge/CVE--2025--3535-high?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2025-3535) | Denial of Service | BurpAPIFinder v2.0.2 | 🔴 |
+| [![CVE](https://img.shields.io/badge/CVE--2025--52867-medium?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2025-52867) | Denial of Service | Qsync Central | 🟡 |
+| [![CVE](https://img.shields.io/badge/CVE--2025--52868-high?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2025-52868) | Buffer Overflow | Qsync Central | 🔴 |
+| [![CVE](https://img.shields.io/badge/CVE--2025--52869-high?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2025-52869) | Buffer Overflow | Qsync Central | 🔴 |
+| [![CVE](https://img.shields.io/badge/CVE--2025--52870-high?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2025-52870) | Buffer Overflow | Qsync Central | 🔴 |
+| [![CVE](https://img.shields.io/badge/CVE--2026--40532-medium?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2026-40532) | Forced Browsing | Synology DSM | 🟡 |
+| [![CVE](https://img.shields.io/badge/CVE--2026--40536-medium?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2026-40536) | Path Traversal | Synology DSM | 🟡 |
+| [![CVE](https://img.shields.io/badge/CVE--2026--46686-medium?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2026-46686) | Cross-Site Scripting | emlog/emlog | 🟡 |
+| [![CVE](https://img.shields.io/badge/CVE--2026--46687-high?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2026-46687) | Local File Inclusion | emlog/emlog | 🔴 |
 
 </details>
 
-<br />
-
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                    THREAT ANALYTICS                          ║
-╚══════════════════════════════════════════════════════════════╝
+webhacker@team:~$ python3 analyze.py --cve-stats
 ```
-
-<details open>
-<summary><b>> python analyze.py --cve-stats</b></summary>
-
-<br />
 
 <div align="center">
-
-```mermaid
-pie title CVE Severity Distribution
-    "HIGH (12)" : 12
-    "MEDIUM (9)" : 9
-    "LOW (1)" : 1
-```
 
 | 严重度 | 数量 | 占比 | 进度条 |
 |:------:|:----:|:----:|:------:|
@@ -135,14 +94,8 @@ pie title CVE Severity Distribution
 
 </div>
 
-</details>
-
-<br />
-
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                     ESTABLISH CONNECTION                     ║
-╚══════════════════════════════════════════════════════════════╝
+webhacker@team:~$ cat contact.info
 ```
 
 <div align="center">
@@ -153,19 +106,13 @@ pie title CVE Severity Distribution
 
 </div>
 
-<br />
-
-<div align="center">
-
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  ⚡ We hack for security, not for chaos.                   │
-│  Thanks for visiting our digital playground.              │
-└─────────────────────────────────────────────────────────────┘
-
-$ exit
-
+webhacker@team:~$ exit
 Connection to github.com closed.
 ```
 
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/heart.svg" width="15" /> <sub>We hack for security, not for chaos.</sub>
 </div>
