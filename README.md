@@ -17,8 +17,8 @@ $ whoami
   <img src="https://img.shields.io/badge/%F0%9F%93%8D_CHINA-000?style=for-the-badge&logo=location-dot&logoColor=red&labelColor=000" alt="Location: China" />
   <img src="https://img.shields.io/badge/STATUS-HUNTING-00ff00?style=for-the-badge&logo=target&logoColor=00ff00&labelColor=000" alt="Status: Hunting" />
   <img src="https://img.shields.io/badge/WANTED-NEW_TALENT-ff00ff?style=for-the-badge&logo=linkedin&logoColor=ff00ff&labelColor=000" alt="Hiring Now" />
-  <a href="https://github.com/WebHackerTeam">
-    <img src="https://img.shields.io/github/followers/WebHackerTeam?style=for-the-badge&logo=github&label=FOLLOW&color=00ff00&labelColor=000" alt="GitHub Followers" />
+  <a href="https://github.com/Web-Hacker-Team">
+    <img src="https://img.shields.io/github/followers/Web-Hacker-Team?style=for-the-badge&logo=github&label=FOLLOW&color=00ff00&labelColor=000" alt="GitHub Followers" />
   </a>
 </div>
 
