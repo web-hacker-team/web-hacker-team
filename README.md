@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- 动态矩阵雨 GIF 作为 Banner -->
+<!-- Dynamic Matrix Rain GIF as Banner -->
 <img src="https://raw.githubusercontent.com/WebHackerTeam/.github/main/assets/matrix-banner.gif" width="100%" alt="Matrix Rain Banner" />
 
 <br />
@@ -27,24 +27,28 @@ $ whoami
 ---
 
 > [!IMPORTANT]
-> **我们正在寻找 0-day 猎手。** 如果你擅长 Web / Binary / IoT 漏洞挖掘，欢迎通过底部邮箱联系我们。
+> **We are hunting for 0-day hunters.** If you specialize in Web / Binary / IoT vulnerability discovery, reach out to us via the email below.
 
 ---
 
 ## 📡 MISSION BRIEFING
 
 <details open>
-<summary><b>🔓 点击折叠 | 了解我们的研究方向</b></summary>
+<summary><b>🔓 Click to collapse | Our Research Focus</b></summary>
 
 <br />
 
-| 领域 | 方向 | 威胁等级 |
-|------|------|----------|
-| **🌐 Web 应用** | SQL 注入 · XSS · SSRF · 反序列化 | `█████████░` CRITICAL |
-| **💾 二进制 / IoT** | 缓冲区溢出 · 命令注入 · 权限提升 | `████████░░` HIGH |
-| **☁️ 云 / 网络设备** | NAS 漏洞 · 防火墙绕过 · DoS | `███████░░░` ELEVATED |
+<div align="center">
 
-> 我们专注于 **零日漏洞发现** 与 **安全研究**，累计向 QNAP、Synology 等厂商报送 22+ 个 CVE。
+| Domain | Focus Areas | Threat Level |
+|--------|-------------|--------------|
+| **🌐 Web Applications** | SQL Injection · XSS · SSRF · Deserialization | `█████████░` CRITICAL |
+| **💾 Binary / IoT** | Buffer Overflow · Command Injection · Privilege Escalation | `████████░░` HIGH |
+| **☁️ Cloud / Network Devices** | NAS Vulnerabilities · Firewall Bypass · DoS | `███████░░░` ELEVATED |
+
+</div>
+
+> We focus on **zero-day vulnerability discovery** and **security research**, having reported 22+ CVEs to vendors including QNAP, Synology, and more.
 
 </details>
 
@@ -54,8 +58,8 @@ $ whoami
 
 <div align="center">
 
-| 🧠 漏洞挖掘 | ⚔️ 渗透测试 | 🔬 逆向工程 | ☁️ 云安全 |
-|:-----------:|:-----------:|:-----------:|:---------:|
+| 🧠 Vulnerability Research | ⚔️ Penetration Testing | 🔬 Reverse Engineering | ☁️ Cloud Security |
+|:-------------------------:|:----------------------:|:----------------------:|:-----------------:|
 | `IDA Pro` | `Burp Suite` | `Ghidra` | `Kubernetes` |
 | `GDB / WinDbg` | `Metasploit` | `Frida` | `Docker` |
 | `CodeQL` | `Nmap / Masscan` | `dnSpy` | `AWS / Azure` |
@@ -67,14 +71,14 @@ $ whoami
 ## 📂 CVE DATABASE
 
 <details open>
-<summary><b>📋 点击折叠 | 查看全部漏洞记录（共 22 个）</b></summary>
+<summary><b>📋 Click to collapse | View All Vulnerability Records (22 Total)</b></summary>
 
 <br />
 
 <div align="center">
 
-| CVE ID | 漏洞类型 | 影响产品 | 严重度 |
-|--------|----------|----------|:------:|
+| CVE ID | Vulnerability Type | Affected Product | Severity |
+|--------|-------------------|------------------|:--------:|
 | [![CVE](https://img.shields.io/badge/CVE--2024--7962-high?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2024-7962) | Arbitrary File Read | gaizhenbiao/chuanhuchatgpt | 🔴 |
 | [![CVE](https://img.shields.io/badge/CVE--2024--8029-medium?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2024-8029) | Cross-Site Scripting | imartinez/privategpt | 🟡 |
 | [![CVE](https://img.shields.io/badge/CVE--2024--12923-low?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2024-12923) | Cross-Site Scripting | Photo Station | 🟢 |
@@ -107,13 +111,13 @@ $ whoami
 ## 📊 THREAT ANALYTICS
 
 <details open>
-<summary><b>📈 点击折叠 | 查看漏洞统计图表</b></summary>
+<summary><b>📈 Click to collapse | View Vulnerability Statistics</b></summary>
 
 <br />
 
 <div align="center">
 
-**严重度分布**
+**Severity Distribution**
 
 ```mermaid
 pie title CVE Severity Distribution
@@ -122,7 +126,7 @@ pie title CVE Severity Distribution
     "🟢 Low (1)" : 1
 ```
 
-**受影响产品 TOP 5**
+**Top 5 Affected Products**
 
 ```mermaid
 xychart-beta
@@ -144,7 +148,7 @@ xychart-beta
 
 | 📧 **E-mail** | 🐙 **GitHub** |
 |:-------------:|:-------------:|
-| `web_hacker@163.com` | [@WebHackerTeam](https://github.com/WebHackerTeam) |
+| `web_hacker@163.com` | [@Web-Hacker-Team](https://github.com/Web-Hacker-Team) |
 
 </div>
 
