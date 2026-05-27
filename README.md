@@ -51,11 +51,27 @@ Web Hacker Team was established in **January 2024** and is composed of members s
  
 | CVE ID | Vulnerability Type | Affected Project | Status |
 |--------|-------------------|------------------|--------|
-| ![CVE](https://img.shields.io/badge/CVE--2024--8029-medium?style=flat-square)   | Stored XSS | imartinez/privategpt | <span style="color:green">Fixed</span> |
+| ![CVE](https://img.shields.io/badge/CVE--2024--8029-medium?style=flat-square)   | Cross-Site Scripting | imartinez/privategpt | <span style="color:green">Fixed</span> |
 | ![CVE](https://img.shields.io/badge/CVE--2024--7962-high?style=flat-square)   | Arbitrary File Read | gaizhenbiao/chuanhuchatgpt | <span style="color:green">Fixed</span> |
+| ![CVE](https://img.shields.io/badge/CVE--2024--12923-low?style=flat-square)   | Cross-Site Scripting | Photo Station | <span style="color:orange">Fixed</span> |
 | ![CVE](https://img.shields.io/badge/CVE--2024--50405-medium?style=flat-square)   | CRLF Injection | QuTS hero | <span style="color:orange">Fixed</span> |
+| ![CVE](https://img.shields.io/badge/CVE--2024--50406-medium?style=flat-square)   | Cross-Site Scripting | License Center | <span style="color:orange">Fixed</span> |
 | ![CVE](https://img.shields.io/badge/CVE--2024--53693-medium?style=flat-square)   | CRLF Injection | QuTS hero | <span style="color:orange">Fixed</span> |
+| ![CVE](https://img.shields.io/badge/CVE--2024--56804-high?style=flat-square)   | SQL Injection | Video Station | <span style="color:orange">Fixed</span> |
+| ![CVE](https://img.shields.io/badge/CVE--2024--56805-high?style=flat-square)   | Buffer Overflow | QNAP OS | <span style="color:orange">Fixed</span> |
+| ![CVE](https://img.shields.io/badge/CVE--2025--22481-high?style=flat-square)   | Command Injection | QNAP OS | <span style="color:orange">Fixed</span> |
+| ![CVE](https://img.shields.io/badge/CVE--2025--22482-medium?style=flat-square)   | Format String | Qsync Central | <span style="color:orange">Fixed</span> |
+| ![CVE](https://img.shields.io/badge/CVE--2025--29898-medium?style=flat-square)   | Denial of Service | Qsync Central | <span style="color:orange">Fixed</span> |
+| ![CVE](https://img.shields.io/badge/CVE--2025--30264-high?style=flat-square)   | Command Injection | QNAP OS | <span style="color:orange">Fixed</span> |
+| ![CVE](https://img.shields.io/badge/CVE--2025--30265-high?style=flat-square)   | Buffer Overflow | QNAP OS | <span style="color:orange">Fixed</span> |
 | ![CVE](https://img.shields.io/badge/CVE--2025--3535-high?style=flat-square)   | Denial of Service | BurpAPIFinder v2.0.2 | <span style="color:green">Fixed</span> |
+| ![CVE](https://img.shields.io/badge/CVE--2025--52867-medium?style=flat-square)   | Denial of Service | Qsync Central | <span style="color:orange">Fixed</span> |
+| ![CVE](https://img.shields.io/badge/CVE--2025--52868-high?style=flat-square)   | Buffer Overflow | Qsync Central | <span style="color:orange">Fixed</span> |
+| ![CVE](https://img.shields.io/badge/CVE--2025--52869-high?style=flat-square)   | Buffer Overflow | Qsync Central | <span style="color:orange">Fixed</span> |
+| ![CVE](https://img.shields.io/badge/CVE--2025--52870-high?style=flat-square)   | Buffer Overflow | Qsync Central | <span style="color:orange">Fixed</span> |
+| ![CVE](https://img.shields.io/badge/CVE--2026--46686-medium?style=flat-square)   | Cross-Site Scripting | emlog/emlog | <span style="color:orange">Fixed</span> |
+| ![CVE](https://img.shields.io/badge/CVE--2026--46687-high?style=flat-square)   | Local File Inclusion | emlog/emlog | <span style="color:green">Fixed</span> |
+ 
  
 ## 📬 Contact Us 
  
