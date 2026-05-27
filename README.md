@@ -71,6 +71,8 @@ $ whoami
 
 <br />
 
+<div align="center">
+
 | CVE ID | 漏洞类型 | 影响产品 | 严重度 |
 |--------|----------|----------|:------:|
 | [![CVE](https://img.shields.io/badge/CVE--2024--7962-high?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2024-7962) | Arbitrary File Read | gaizhenbiao/chuanhuchatgpt | 🔴 |
@@ -95,6 +97,8 @@ $ whoami
 | [![CVE](https://img.shields.io/badge/CVE--2026--40536-medium?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2026-40536) | Path Traversal | Synology DSM | 🟡 |
 | [![CVE](https://img.shields.io/badge/CVE--2026--46686-medium?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2026-46686) | Cross-Site Scripting | emlog/emlog | 🟡 |
 | [![CVE](https://img.shields.io/badge/CVE--2026--46687-high?style=flat-square)](https://cve.org/CVERecord/SearchResults?query=CVE-2026-46687) | Local File Inclusion | emlog/emlog | 🔴 |
+
+</div>
 
 </details>
 
